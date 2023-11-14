@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "name": "projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass advanced-css-course/Natours/sass/main.scss css/style.css  /Users/mamoonrashidrazmal/Desktop/projects/paractice/css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
